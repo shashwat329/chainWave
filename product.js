@@ -1,8 +1,6 @@
 /** @format */
 import { navbar, hjjk } from './nav.js';
-// import { product } from './data.js';
 import { fetchdata } from './compoents/fetch.js';
-// import { get, gte } from 'lodash';
 import { footer } from './footer.js';
 
 document.querySelector('#footer-container').innerHTML = footer();
