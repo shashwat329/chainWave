@@ -58,9 +58,11 @@ function navbar() {
       <div>
         <span class="material-symbols-outlined"> location_on </span>
       </div>
-      <div>NEW DELHI,96829 &nbsp&nbsp</div>
+      <div>Ghaziabad &nbsp&nbsp</div>
       <div>
-      <div>Ghaziabad</div>
+          <span class="material-symbols-outlined"> location_on </span>
+      </div>
+      <div>New Delhi</div>
     </div>
   </div>
   <div class="G">
