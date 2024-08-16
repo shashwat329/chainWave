@@ -66,7 +66,7 @@ function navbar() {
   </div>
   <div class="G">
     <div class="y">Grocery & essentials</div>
-    <div class="y">laptops</div>
+    <div class="y"><a href="laptop.html"> laptops</a></div>
     <div class="y">Apparel</div>
     <div class="y">Home</div>
     <div class="y">Character Shop</div>
