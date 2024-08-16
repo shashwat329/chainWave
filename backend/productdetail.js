@@ -15,21 +15,5 @@ class Product {
   let item4 = new Product("Product4", 25.0, "Category4", 0.8, "available");
   let item5 = new Product("Product5", 30.0, "Category5", 0.9, "available");
   
-  function buy(item, quantity) {
-    item.frequency += quantity;
-    item.status = "under_delivery";
-  }
-  
-  function returnItem(item) {
-    item.frequency--;
-    item.status = "cancelled";
-  }
-  
-  function notAnIssue(item) {
-    item.status = "cancel_NoIssue";
-  }
-  
-  function isIssue(item) {
-    item.status = "cancel_haveIssue";
-  }
+ 
   
